@@ -14,4 +14,4 @@
 
 🤝 Looking to collaborate on quantum computing, cryptography, and machine learning projects
 
-📫 How to reach me: shubgupta589@gmail.com | [LinkedIn](https://www.linkedin.com/in/shubham-gupta-5a0b97231/) | Phone: +919305398652
+📫 How to reach me: shubgupta589@gmail.com | [LinkedIn](https://www.linkedin.com/in/shubham-gupta-5a0b97231/) 
