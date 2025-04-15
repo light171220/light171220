@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shubham Gupta
 
-👨‍💻 Currently working as a Research Intern at DRDO on quantum algorithms for cryptographic key recovery
+👨‍💻 Currently working as on quantum algorithms for cryptographic key recovery
 
 🔍 Passionate about Quantum Computing, Machine Learning and Computer Networks
 
